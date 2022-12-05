@@ -1,0 +1,24 @@
+*{
+    background-color: rgb(240, 140, 174);
+}
+.kutuf{
+    width: 100px; 
+    height: 100px;
+    background-color: rgb(107, 73, 73);
+   
+    float: left;      
+    margin-right: 1rem ;
+    margin-bottom: 1rem;
+}
+.kutuc{
+    width: 100px; 
+    height: 100px;
+    background-color: rgb(107, 73, 73);
+   
+    float: right;      
+    margin-left:1rem ;
+    margin-bottom: 1rem;
+}
+.clearfix{
+    clear: both;
+}
