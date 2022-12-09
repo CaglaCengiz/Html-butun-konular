@@ -1,0 +1,14 @@
+.button{
+    border: 80px;
+    padding:40px ;
+   background-color:aqua;
+   color: black;
+   width: 130px;
+   border-radius: 20px;
+}
+.button:hover{
+    color: blue;
+    background-color: blueviolet;
+    border-radius: 12px;
+    background-image:none;
+}
